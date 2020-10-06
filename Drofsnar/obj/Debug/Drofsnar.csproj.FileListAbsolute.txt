@@ -1,0 +1,14 @@
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Drofsnar\Drofsnar\Drofsnar\bin\Debug\Drofsnar.exe.config
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Drofsnar\Drofsnar\Drofsnar\bin\Debug\Drofsnar.exe
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Drofsnar\Drofsnar\Drofsnar\bin\Debug\Drofsnar.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Drofsnar\Drofsnar\Drofsnar\obj\Debug\Drofsnar.csprojAssemblyReference.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Drofsnar\Drofsnar\Drofsnar\obj\Debug\Drofsnar.csproj.CoreCompileInputs.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Drofsnar\Drofsnar\Drofsnar\obj\Debug\Drofsnar.exe
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Drofsnar\Drofsnar\Drofsnar\obj\Debug\Drofsnar.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Drofsnar\Drofsnar\bin\Debug\Drofsnar.exe.config
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Drofsnar\Drofsnar\bin\Debug\Drofsnar.exe
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Drofsnar\Drofsnar\bin\Debug\Drofsnar.pdb
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Drofsnar\Drofsnar\obj\Debug\Drofsnar.csprojAssemblyReference.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Drofsnar\Drofsnar\obj\Debug\Drofsnar.csproj.CoreCompileInputs.cache
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Drofsnar\Drofsnar\obj\Debug\Drofsnar.exe
+C:\Users\kylew\1150Projects\DotNetProjects\GoldBadge\Projects\Drofsnar\Drofsnar\obj\Debug\Drofsnar.pdb
